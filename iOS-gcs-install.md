@@ -3,8 +3,9 @@
 ### 一、如何安装
 
 ####  1. 通过二维码或下载链接打开手机浏览器
-<img src="/img/gcs/01.png" width="50%" />
-![](/img/gcs/01.png), ![](/img/gcs/02.png)
+<img src="/img/gcs/01.png" width="45%" />
+<img src="/img/gcs/02.png" width="45%" )
+
 ####  2. 点击“下载安装”，并同意下载。
 ![](/img/gcs/03.png)
 ####  3.  同意安装后，按Home按钮，进入手机桌面，可以看到“高财生体验版”正在安装。
